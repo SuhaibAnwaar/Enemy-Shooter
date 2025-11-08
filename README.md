@@ -1,6 +1,8 @@
 # Enemy Shooter  
 Author: Suhaib Anwaar 
 
+![Enemy Shooter Banner](https://github.com/SuhaibAnwaar/Enemy-Shooter/blob/0d2932f28f38ccbec52766f494bbb4c081648c18/Enemy%20Shooter%202.png)
+
 ## 🎮 Play the Game
 **[► Play on itch.io](https://suhaib-a.itch.io/enemyshooter)**
 
@@ -39,6 +41,14 @@ Technical Summary
 - Engine: Unreal Engine (C++ project).
 - AI: Custom perception components (sight + sound), behavior selection using a priority decision system
 - Weapons: C++ projectile classes for each ammo type with distinct damage/effect logic.
+
+## 📸 Screenshots
+
+![Gameplay 1](https://github.com/SuhaibAnwaar/Enemy-Shooter/blob/0d2932f28f38ccbec52766f494bbb4c081648c18/Enemy%20Shooter%203.png)
+
+![Gameplay 2](https://github.com/SuhaibAnwaar/Enemy-Shooter/blob/0d2932f28f38ccbec52766f494bbb4c081648c18/Enemy%20Shooter%204.png)
+
+![Gameplay 3](https://github.com/SuhaibAnwaar/Enemy-Shooter/blob/0d2932f28f38ccbec52766f494bbb4c081648c18/Enemy%20Shooter%205.png)
 
 Future Work & Improvements (suggestions)
 - Weapons & Combat
